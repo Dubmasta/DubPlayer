@@ -45,7 +45,7 @@ Rate songs as you listen. A heart, 1 to 5 stars, or a thumbs-down if you never w
 ### 🔊 Sound shaped for the car
 - **Gain, Bass and Treble** controls, with a one-tap **Flat**.
 - **Subwoofer Bass:** a deep lift for the low notes a subwoofer or car woofer plays.
-- **Dubmasta Sound:** one tap and DubPlayer makes every song sound its best on big speakers, by itself. Quiet songs come up to sit with today's loud ones, the sound gets fuller and more even, and dull or low-quality files (like 128 kbps MP3s) get their sparkle back. Songs that already sound great are left as they are.
+- **Dubmasta Sound** *(paid version)*: one tap and DubPlayer makes every song sound its best on big speakers, by itself. Quiet songs come up to sit with today's loud ones, the sound gets fuller and more even, and dull or low-quality files (like 128 kbps MP3s) get their sparkle back.
 - A built-in **limiter**, so the sound never clips or distorts, even turned up.
 - **Save a sound for one song**, and it plays that way every time.
 
@@ -79,7 +79,7 @@ MoreDub, Forest and Bright Contrast.
     <td align="center"><img src="screenshots/01-library.jpg" width="200" alt="Library"><br><sub><b>Library</b><br>Play, Shuffle and search</sub></td>
     <td align="center"><img src="screenshots/02-playing.jpg" width="200" alt="Playing"><br><sub><b>Playing</b><br>Dub effects, stars and hearts</sub></td>
     <td align="center"><img src="screenshots/03-sound.jpg" width="200" alt="Sound"><br><sub><b>Sound</b><br>Gain, Bass, Treble, per-song sound</sub></td>
-    <td align="center"><img src="screenshots/04-sound-enhancements.jpg" width="200" alt="Sound Enhancements"><br><sub><b>Enhancements</b><br>Subwoofer Bass, Dubmasta Sound</sub></td>
+    <td align="center"><img src="screenshots/04-sound-enhancements.jpg" width="200" alt="Sound Enhancements"><br><sub><b>Enhancements</b><br>Subwoofer Bass (Dubmasta Sound and Tape in paid)</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="screenshots/05-playlists.jpg" width="200" alt="Playlists"><br><sub><b>Playlists</b><br>For every mood</sub></td>
@@ -123,6 +123,7 @@ A usage report is sent only when you choose to send it. It holds no song, artist
 **DubPlayer Free has everything you need to play your music.**
 
 The **DubPlayer paid version**, coming later, adds:
+- **Dubmasta Sound**, the one-tap "sound its best" button;
 - the **Echo** effect and **Tape Sound**;
 - a **Mix** slider for each sound enhancement;
 - a **5-band EQ** with presets;
