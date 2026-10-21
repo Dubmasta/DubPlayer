@@ -5,7 +5,7 @@
 <h1 align="center">DubPlayer Free</h1>
 
 <p align="center">
-  <strong>The music player made for car stereos and Bluetooth speakers.</strong><br>
+  <strong>Your music, played loud: on Bluetooth speakers, car stereos and aux.</strong><br>
   Your music, your phone, your sound. Free, no account, no ads.
 </p>
 
@@ -19,22 +19,22 @@
 
 ## Give your old Android phone a new job
 
-**Got an old Android phone or tablet sitting in a drawer? Turn it into a dedicated Bluetooth music player.**
+**Got an old Android phone or tablet sitting in a drawer? Turn it into a dedicated music player for your speakers, your stereo or your car.**
 
-Load your music onto it, pair it with your car stereo or Bluetooth speaker, and leave it in the car or next to the speaker. DubPlayer turns it into a music box that does one job well:
+Load your music onto it, connect it by Bluetooth or aux cable, and leave it with the speaker, the stereo or in the car. DubPlayer turns it into a music box that does one job well:
 
-- 🚗 **Always ready in the car.** Your main phone stays free for calls and maps, and keeps its battery.
+- 🔊 **Always ready: at home, at a party or in the car.** Your main phone stays free for calls and maps, and keeps its battery.
 - 📴 **No SIM card, no Internet, no account needed.** It plays the music stored on the phone.
 - 🔁 **Plays all night.** With the screen off and nothing to keep tapping. If the speaker or car reconnects within 30 minutes, the music picks up where it stopped.
-- 🎛️ **Control it from the car.** Play, pause, next and back from the steering wheel, the stereo or the speaker, like a real deck.
+- 🎛️ **Control it from the speaker or the car.** Play, pause, next and back from the speaker's buttons, the stereo or the steering wheel, like a real deck.
 
-That old phone in the drawer becomes your car's own jukebox.
+That old phone in the drawer becomes your own jukebox: in the living room, the garage, the shop or the car.
 
 ---
 
 ## Why DubPlayer
 
-Most music players are made for earbuds and streaming. DubPlayer is made for **the music you own**, played **loud and clean** through a car or a speaker.
+Most music players are made for earbuds and streaming. DubPlayer is made for **the music you own**, played **loud and clean** through any speaker your phone can reach: Bluetooth speakers and soundbars, home stereos, car stereos, and anything with an aux input.
 
 ### 🎲 Random that keeps your music fresh
 Tap **Shuffle** and DubPlayer works through your whole library before it repeats. Songs you heart or rate highly come round more often. Songs you vote down are left out.
@@ -42,9 +42,9 @@ Tap **Shuffle** and DubPlayer works through your whole library before it repeats
 ### ❤️ Hearts, stars and thumbs-down
 Rate songs as you listen. A heart, 1 to 5 stars, or a thumbs-down if you never want to hear it again.
 
-### 🔊 Sound shaped for the car
+### 🔊 Sound shaped for big speakers
 - **Gain, Bass and Treble** controls, with a one-tap **Flat**.
-- **Subwoofer Bass:** a deep lift for the low notes a subwoofer or car woofer plays.
+- **Subwoofer Bass:** a deep lift for the low notes a subwoofer, party speaker or car woofer plays.
 - **Dubmasta Sound** *(paid version)*: one tap and DubPlayer makes every song sound its best on big speakers, by itself. Quiet songs come up to sit with today's loud ones, the sound gets fuller and more even, and dull or low-quality files (like 128 kbps MP3s) get their sparkle back.
 - A built-in **limiter**, so the sound never clips or distorts, even turned up.
 - **Save a sound for one song**, and it plays that way every time.
@@ -52,11 +52,16 @@ Rate songs as you listen. A heart, 1 to 5 stars, or a thumbs-down if you never w
 ### 📯 Dub sound effects
 **Beep**, **Siren** and **Horn** play right over your music, the way a sound system DJ does it. Hold the Beep for a long beep. The **FX MIX** slider sets how loud they play against the song.
 
-### 🚘 Made for Bluetooth cars and speakers
-- Play, pause, next and back from the car, the speaker, the notification or the lock screen.
+### 🔌 Connects to what you have
+- **Bluetooth:** portable and party speakers, soundbars, home stereos, car stereos.
+- **Aux cable:** car aux inputs, home stereos, boomboxes, powered speakers, amps and mixers (phones without a jack use a USB-C to 3.5 mm adapter).
+- **USB-C audio adapters** for hi-fi and studio monitors.
+
+### 🎚️ Controls where you are
+- Play, pause, next and back from the speaker, the car, the notification or the lock screen.
 - **Back** restarts the song if it has played more than a few seconds; press again for the song before.
 - **Hold Next or Back** on the car or speaker to fast-forward or rewind.
-- A **screen lock** button stops stray taps while you drive.
+- A **screen lock** button stops stray taps in your pocket or while you drive.
 
 ### 📚 Your whole library, organised
 - **Songs, Favorites, Artists and Albums**, with a fast search.
@@ -135,7 +140,7 @@ In Free, these show a small lock.
 
 ---
 
-## ⚠️ Made for car stereos and speakers
+## ⚠️ Made for speakers and car stereos
 
 DubPlayer is not designed for headphones. Some sound effects, and the bass and tone settings, can be very loud and may harm your hearing in headphones. If you use headphones, keep the volume low.
 
