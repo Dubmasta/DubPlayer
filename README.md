@@ -15,6 +15,11 @@
   <a href="https://www.dubmasta.com/dubplayer/">dubmasta.com/dubplayer</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Dubmasta/DubPlayer/releases/latest"><img src="screenshots/download-qr.png" alt="QR code: download DubPlayer Free" width="140"></a><br>
+  <sub>On a computer? Scan with your Android phone or tablet to download.</sub>
+</p>
+
 ---
 
 ## Give your old Android phone a new job
