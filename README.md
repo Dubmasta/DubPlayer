@@ -3,9 +3,11 @@
 </p>
 
 <h1 align="center">DubPlayer Free</h1>
+<p align="center"><sub>by Dubmasta</sub></p>
 
 <p align="center">
-  <strong>Your music, played loud: on Bluetooth speakers, car stereos and aux.</strong><br>
+  <strong>Fix, Organize &amp; Clean up your music collection while you play it!!</strong><br>
+  Your music, played loud: on Bluetooth speakers, car stereos and aux.<br>
   Your music, your phone, your sound. Free, no account, no ads.
 </p>
 
@@ -41,6 +43,17 @@ That old phone in the drawer becomes your own jukebox: in the living room, the g
 
 Most music players are made for earbuds and streaming. DubPlayer is made for **the music you own**, played **loud and clean** through any speaker your phone can reach: Bluetooth speakers and soundbars, home stereos, car stereos, and anything with an aux input.
 
+### 🧹 Fix, organize and clean up as you listen
+Copied thousands of MP3s from an old computer? Play them, and clean up the collection as you go.
+- **Song info that fills itself in.** DubPlayer reads the details in your files, and uses file and folder names when there are none. With Internet Access on, it completes missing titles, artists, albums and covers for the songs you play.
+- **Look a song up**, or **identify it by sound**.
+- **Edit song info** yourself; your own edits are never changed.
+- **Duplicate songs:** find the copies and remove them.
+- **Remove from the app** (the file stays; bring it back any time with Restore removed songs) or **delete from the phone**.
+- **Thumbs-down** the songs you never want to hear again.
+
+In Free, the song info you fix is kept in DubPlayer. Saving it into your music files is in the paid version.
+
 ### 🎲 Random that keeps your music fresh
 Tap **Shuffle** and DubPlayer works through your whole library before it repeats. Songs you heart or rate highly come round more often. Songs you vote down are left out.
 
@@ -73,9 +86,6 @@ Rate songs as you listen. A heart, 1 to 5 stars, or a thumbs-down if you never w
 - Type **`#mostplayed`** in the search box to see your favourites by play count.
 - **Playlists** for every mood, with their own search. Play them in order, shuffled or on loop.
 - Opens in seconds, from a few songs to tens of thousands.
-
-### 🏷️ Song info that fills itself in
-DubPlayer reads the song details in your files. When a file has none, it uses the file and folder names. With Internet Access on, it quietly completes missing titles, artists, albums and covers for the songs you play. You can also look a song up yourself, or **identify it by sound**.
 
 ### 🎨 Three skins
 MoreDub, Forest and Bright Contrast.
