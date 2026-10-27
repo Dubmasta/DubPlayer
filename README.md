@@ -52,7 +52,7 @@ Copied thousands of MP3s from an old computer? Play them, and clean up the colle
 - **Remove from the app** (the file stays; bring it back any time with Restore removed songs) or **delete from the phone**.
 - **Thumbs-down** the songs you never want to hear again.
 
-In Free, the song info you fix is kept in DubPlayer. Saving it into your music files is in the paid version.
+**Then take it home.** Copy the cleaned-up collection back to your computer: the duplicates and songs you deleted are gone. In Free, the song info you fix is kept in DubPlayer; the paid version saves it into the music files too, so your whole collection goes back organized and better than before.
 
 ### 🎲 Random that keeps your music fresh
 Tap **Shuffle** and DubPlayer works through your whole library before it repeats. Songs you heart or rate highly come round more often. Songs you vote down are left out.
