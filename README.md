@@ -88,7 +88,10 @@ Rate songs as you listen. A heart, 1 to 5 stars, or a thumbs-down if you never w
 - Opens in seconds, from a few songs to tens of thousands.
 
 ### 🎨 Three skins
-MoreDub, Forest and Bright Contrast.
+MoreDub, Forest and Bright Contrast, or **System default**, which follows your phone's light or dark setting.
+
+### 🧭 Easy to start
+A **quick tour** shows you around the first time; take it again any time from More → Help, where you can also **send feedback**. Text follows your phone's font size.
 
 ---
 
