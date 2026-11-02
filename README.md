@@ -2,8 +2,8 @@
   <img src="screenshots/banner.jpg" alt="DubPlayer Free on Android: Library, Playing and Sound screens" width="100%">
 </p>
 
-<h1 align="center">DubPlayer Free</h1>
-<p align="center"><sub>by Dubmasta</sub></p>
+<h1 align="center">DubPlayer: Music Organizer</h1>
+<p align="center"><sub>Free for Android · by Dubmasta</sub></p>
 
 <p align="center">
   <strong>Fix, Organize &amp; Clean up your music collection while you play it!!</strong><br>
