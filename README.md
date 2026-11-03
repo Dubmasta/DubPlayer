@@ -22,6 +22,16 @@
   <sub>On a computer? Scan with your Android phone or tablet to download.</sub>
 </p>
 
+<!-- Google Play test (owner, 2026-11-03): remove once DubPlayer is public on Google Play. -->
+> **Help DubPlayer launch on Google Play**
+>
+> Join the test with the Google account on your Android phone:
+> 1. [Join the test group](https://groups.google.com/g/dubplayer-testers)
+> 2. [Tap Become a tester](https://play.google.com/apps/testing/com.dubmasta.dubplayer)
+> 3. [Install from Google Play](https://play.google.com/store/apps/details?id=com.dubmasta.dubplayer)
+>
+> Keep it installed and play a few songs now and then. Thank you!
+
 ---
 
 ## Give your old Android phone a new job
