@@ -7,8 +7,8 @@
 
 <p align="center">
   <strong>Fix, Organize &amp; Clean up your music collection while you play it!!</strong><br>
-  Your music, played loud: on Bluetooth speakers, car stereos and aux.<br>
-  Your music, your phone, your sound. Free, no account, no ads.
+  Make your old Android phone or tablet work for you again. Works great on new phones too.<br>
+  Your own music collection, played loud on Bluetooth speakers, car stereos and aux, even without Internet. Free, no account, no ads.
 </p>
 
 <p align="center">
@@ -45,13 +45,19 @@ Load your music onto it, connect it by Bluetooth or aux cable, and leave it with
 - 🔁 **Plays all night.** With the screen off and nothing to keep tapping. If the speaker or car reconnects within 30 minutes, the music picks up where it stopped.
 - 🎛️ **Control it from the speaker or the car.** Play, pause, next and back from the speaker's buttons, the stereo or the steering wheel, like a real deck.
 
-That old phone in the drawer becomes your own jukebox: in the living room, the garage, the shop or the car.
+That old phone in the drawer becomes your own jukebox: in the living room, the garage, the shop or the car. And DubPlayer works great on new phones too.
+
+---
+
+## Your own music collection
+
+Bring back the joy of your own music collection, like the MP3 players of the old days. DubPlayer turns your old phone, or your new one, into your personal music player for the songs you've saved and collected over the years. Your collection, always ready, even without Internet.
 
 ---
 
 ## Why DubPlayer
 
-Most music players are made for earbuds and streaming. DubPlayer is made for **the music you own**, played **loud and clean** through any speaker your phone can reach: Bluetooth speakers and soundbars, home stereos, car stereos, and anything with an aux input.
+Most music players are made for earbuds. DubPlayer is made for **the music you own**, played **loud and clean** through any speaker your phone can reach: Bluetooth speakers and soundbars, home stereos, car stereos, and anything with an aux input.
 
 ### 🧹 Fix, organize and clean up as you listen
 Copied thousands of MP3s from an old computer? Play them, and clean up the collection as you go.
