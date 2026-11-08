@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/Dubmasta/DubPlayer/releases/latest"><img src="screenshots/download-qr.png" alt="QR code: download DubPlayer Free" width="140"></a><br>
-  <sub>On a computer? Scan with your Android phone or tablet to download.</sub>
+  <sub><b>Share DubPlayer:</b> show this code to a friend. They point their Android phone's camera at it to get DubPlayer.</sub>
 </p>
 
 <!-- Google Play test (owner, 2026-11-03): remove once DubPlayer is public on Google Play. -->
