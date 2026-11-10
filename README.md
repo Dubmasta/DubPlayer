@@ -22,15 +22,11 @@
   <sub><b>Share DubPlayer:</b> show this code to a friend. They point their Android phone's camera at it to get DubPlayer.</sub>
 </p>
 
-<!-- Google Play test (owner, 2026-11-03): remove once DubPlayer is public on Google Play. -->
-> **Help DubPlayer launch on Google Play**
->
-> Join the test with the Google account on your Android phone:
-> 1. [Join the test group](https://groups.google.com/g/dubplayer-testers)
-> 2. [Tap Become a tester](https://play.google.com/apps/testing/com.dubmasta.dubplayer)
-> 3. [Install from Google Play](https://play.google.com/store/apps/details?id=com.dubmasta.dubplayer)
->
-> Keep it installed and play a few songs now and then. Thank you!
+<!-- Live on Google Play since 2026-11-09 (replaced the tester box). Official Google badge; the QR code above stays on the GitHub download. -->
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.dubmasta.dubplayer"><img src="screenshots/google-play-badge.png" alt="Get it on Google Play" height="80"></a><br>
+  <sub><b>Also on Google Play.</b> Install it from the Play Store and get updates automatically.</sub>
+</p>
 
 ---
 
