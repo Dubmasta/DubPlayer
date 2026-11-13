@@ -141,6 +141,20 @@ A **quick tour** shows you around the first time; take it again any time from Mo
 
 ---
 
+## 📶 DubTransfer: send music to your phone over Wi-Fi (free tool)
+
+No cable? Worn USB port? **DubTransfer** sends songs from your computer to your Android phone over Wi-Fi. Start it on the phone, type the address it shows into your computer's browser, sign in with the user name and password on the phone, and drag your songs in. They land in the phone's Music folder, ready for DubPlayer or any music player.
+
+<p align="center"><a href="https://www.dubmasta.com/dubtransfer/"><img src="screenshots/dubtransfer.jpg" alt="DubTransfer: the computer page and the phone screen" width="720"></a></p>
+
+- **Safe by design:** real music files only, home Wi-Fi or the phone's own hotspot only, one computer at a time with a new password every time, and the phone always keeps at least 1 GB free. Nothing on the phone can be seen or deleted from the computer.
+- **Free, no ads, no account.** Android 6.0 or newer.
+- For your own music collection: only send music you own or have permission to copy.
+
+<p align="center"><a href="https://www.dubmasta.com/dubtransfer/"><strong>⬇ Download DubTransfer</strong></a></p>
+
+---
+
 ## Privacy
 
 **Your music stays on your device.** No account, no ads, no tracking.
