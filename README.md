@@ -150,6 +150,7 @@ No cable? Worn USB port? **DubTransfer** sends songs from your computer to your 
 <p align="center"><a href="https://www.dubmasta.com/dubtransfer/"><img src="screenshots/dubtransfer.jpg" alt="DubTransfer: the computer page and the phone screen" width="720"></a></p>
 
 - **Safe by design:** real music files only, home Wi-Fi or the phone's own hotspot only, one computer at a time with a new password every time, and the phone always keeps at least 1 GB free. Nothing on the phone can be seen or deleted from the computer.
+- **Lossless welcome:** MP3, FLAC, WAV, Apple Lossless (ALAC), AIFF, M4A/AAC, OGG and Opus.
 - **Free, no ads, no account.** Android 6.0 or newer.
 - For your own music collection: only send music you own or have permission to copy.
 
