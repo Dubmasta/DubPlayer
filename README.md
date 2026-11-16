@@ -95,12 +95,13 @@ Rate songs as you listen. A heart, 1 to 5 stars, or a thumbs-down if you never w
 
 ### 📚 Your whole library, organised
 - **Songs, Favorites, Artists and Albums**, with a fast search.
+- **Browse by folder**: the 📁 button next to # shows your songs the way they are on your phone.
 - Type **`#mostplayed`** in the search box to see your favourites by play count.
 - **Playlists** for every mood, with their own search. Play them in order, shuffled or on loop.
 - Opens in seconds, from a few songs to tens of thousands.
 
-### 🎨 Three skins
-MoreDub, Forest and Bright Contrast, or **System default**, which follows your phone's light or dark setting.
+### 🎨 11 skins
+Eleven skins, including **High Contrast** for weak eyesight, or **System default**, which follows your phone's light or dark setting.
 
 ### 🧭 Easy to start
 A **quick tour** shows you around the first time; take it again any time from More → Help, where you can also **send feedback**. Text follows your phone's font size.
@@ -136,7 +137,7 @@ A **quick tour** shows you around the first time; take it again any time from Mo
    *Samsung:* if the install is blocked, turn off **Auto Blocker** for a moment (Settings → Security and privacy → Auto Blocker), install, then turn it back on.
 4. **Open DubPlayer.** Allow access to your music when asked. DubPlayer finds your songs and is ready to play in seconds.
 
-**Plays:** MP3, FLAC, M4A, AAC, WAV, OGG and Opus.
+**Plays:** MP3, FLAC, ALAC, WAV, AIFF, M4A/AAC, OGG and Opus.
 **Needs:** Android 6.0 or newer. Not available for iPhone, iPad or computers.
 
 ---
@@ -179,7 +180,7 @@ The **DubPlayer paid version**, coming later, adds:
 - the **Echo** effect and **Tape Sound**;
 - a **Mix** slider for each sound enhancement;
 - a **5-band EQ** with presets;
-- more skins and **album playlists**;
+- the **random skin** and **album playlists**;
 - **saving song information into your music files**;
 - and more.
 
