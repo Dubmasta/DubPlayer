@@ -112,16 +112,11 @@ A **quick tour** shows you around the first time; take it again any time from Mo
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/01-library.jpg" width="200" alt="Library"><br><sub><b>Library</b><br>Play, Shuffle and search</sub></td>
-    <td align="center"><img src="screenshots/02-playing.jpg" width="200" alt="Playing"><br><sub><b>Playing</b><br>Dub effects, stars and hearts</sub></td>
-    <td align="center"><img src="screenshots/03-sound.jpg" width="200" alt="Sound"><br><sub><b>Sound</b><br>Gain, Bass, Treble, per-song sound</sub></td>
-    <td align="center"><img src="screenshots/04-sound-enhancements.jpg" width="200" alt="Sound Enhancements"><br><sub><b>Enhancements</b><br>Subwoofer Bass (Dubmasta Sound and Tape in paid)</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/05-playlists.jpg" width="200" alt="Playlists"><br><sub><b>Playlists</b><br>For every mood</sub></td>
-    <td align="center"><img src="screenshots/06-albums.jpg" width="200" alt="Albums"><br><sub><b>Albums</b><br>Ready to play</sub></td>
-    <td align="center"><img src="screenshots/07-album.jpg" width="200" alt="An album"><br><sub><b>An album</b><br>Its songs in order</sub></td>
-    <td align="center"><img src="screenshots/08-more.jpg" width="200" alt="More"><br><sub><b>More</b><br>All-night play, song info, rescan</sub></td>
+    <td align="center"><img src="screenshots/dubplayer-1-old-phone.jpg" width="190" alt="A new job for your old phone"></td>
+    <td align="center"><img src="screenshots/dubplayer-2-sound.jpg" width="190" alt="Your sound. Your way."></td>
+    <td align="center"><img src="screenshots/dubplayer-3-library.jpg" width="190" alt="Your whole library. Ready to play."></td>
+    <td align="center"><img src="screenshots/dubplayer-4-duplicates.jpg" width="190" alt="Find duplicate songs"></td>
+    <td align="center"><img src="screenshots/dubplayer-5-skins.jpg" width="190" alt="A look that fits"></td>
   </tr>
 </table>
 
@@ -146,16 +141,25 @@ A **quick tour** shows you around the first time; take it again any time from Mo
 
 <img src="screenshots/dubtransfer-icon.png" alt="DubTransfer icon" width="80" align="left">
 
-No cable? Worn USB port? **DubTransfer** sends songs from your computer to your Android phone over Wi-Fi. Start it on the phone, type the address it shows into your computer's browser, sign in with the user name and password on the phone, and drag your songs in. They land in the phone's Music folder, ready for DubPlayer or any music player.
+**Easy music transfer from computer to phone: connect both to the same home Wi-Fi, sign in, and drag and drop your music.**
 
-<p align="center"><a href="https://www.dubmasta.com/dubtransfer/"><img src="screenshots/dubtransfer.jpg" alt="DubTransfer: the computer page and the phone screen" width="720"></a></p>
+No cable? Worn USB port? **DubTransfer** sends songs from your computer to your Android phone over Wi-Fi. Start it on the phone, type the address it shows into your computer's browser, sign in with the user name and password on the phone, and drag your songs or whole folders in. They land in the phone's Music/DubPlayer/DT folder, ready to play in DubPlayer. And more surprises inside!
 
-- **Safe by design:** real music files only, home Wi-Fi or the phone's own hotspot only, one computer at a time with a new password every time, and the phone always keeps at least 1 GB free. Nothing on the phone can be seen or deleted from the computer.
+<p align="center"><a href="https://www.dubmasta.com/dubtransfer/"><img src="screenshots/dubtransfer-0-easy.png" alt="DubTransfer: easy music transfer from computer to phone" width="800"></a></p>
+
+**How to use**
+
+<p align="center">
+<img src="screenshots/dubtransfer-1-start.png" alt="Step 1: tap Start on your phone" width="390"> <img src="screenshots/dubtransfer-2-address.png" alt="Step 2: open the address on your computer" width="390"><br>
+<img src="screenshots/dubtransfer-3-drop.png" alt="Step 3: drag and drop your music" width="390"> <img src="screenshots/dubtransfer-4-play.png" alt="Step 4: play them loud in DubPlayer" width="390">
+</p>
+
+- **Safe by design:** real music files only, home Wi-Fi or the phone's own hotspot only, one computer at a time with a new password every time, and the phone always keeps 10% of its storage free, so you can send as many songs as you like. Nothing on the phone can be seen or deleted from the computer.
 - **Lossless welcome:** MP3, FLAC, WAV, Apple Lossless (ALAC), AIFF, M4A/AAC, OGG and Opus.
 - **Free, no ads, no account.** Android 6.0 or newer.
 - For your own music collection: only send music you own or have permission to copy.
 
-<p align="center"><a href="https://www.dubmasta.com/dubtransfer/"><strong>⬇ Download DubTransfer</strong></a></p>
+<p align="center"><a href="https://www.dubmasta.com/dubtransfer/"><strong>⬇ Download DubTransfer</strong></a> · <a href="https://github.com/Dubmasta/DubPlayer/releases/tag/dubtransfer-v1.4">GitHub release</a></p>
 
 ---
 
